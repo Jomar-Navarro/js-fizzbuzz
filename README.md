@@ -23,4 +23,6 @@ Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot f
 
 ## SVOLGIMENTO
 
-1.  Genero un box da 1 a 100;
+1.  Creo una variabile box con all'interno l'ID del container;
+2.  Creo un ciclo impostando un contatore tra 1 a 100;
+3.  All'interno del ciclo creo una condizione per il quale mi stampa fizzbuzz nei box multipli di 15. Invece, se é multiplo di 3 mi stampa fizz con il suo apposito colore di background, se é multiplo di 5 invece, mi stampa buzz con il suo apposito colore di background.

@@ -1,0 +1,15 @@
+.debug{
+  border: 1px dashed black;
+}
+
+.box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkorchid;
+  width: 100px;
+  height: 100px;
+  color: white;
+  font-size: 2rem;
+  margin: 5px;
+}

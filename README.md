@@ -23,4 +23,4 @@ Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot f
 
 ## SVOLGIMENTO
 
-1.  
+1.  Genero un box da 1 a 100;
